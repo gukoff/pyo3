@@ -156,6 +156,7 @@ about this topic.
  * [autopy](https://github.com/autopilot-rs/autopy) _A simple, cross-platform GUI automation library for Python and Rust._
    * Contains an example of building wheels on TravisCI and appveyor using [cibuildwheel](https://github.com/joerick/cibuildwheel)
  * [orjson](https://github.com/ijl/orjson)  _Fast Python JSON library_
+ * [dtparse](https://github.com/gukoff/dtparse) _Fast Python datetime parser_
  * [inline-python](https://github.com/dronesforwork/inline-python) _Inline Python code directly in your Rust code_
  * [Rogue-Gym](https://github.com/kngwyu/rogue-gym) _Customizable rogue-like game for AI experiments_
    * Contains an example of building wheels on Azure Pipelines
